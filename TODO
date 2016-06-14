@@ -1,0 +1,16 @@
+# CPP
+TODO `auto` should be orange
+TODO `'\n'` should be orange
+
+# Bash
+TODO `HOME_DIR` should be green
+TODO `BE_VERBOSE` should be blue
+TODO `echo, -ne` etc should be red
+TODO `2` should be purple
+TODO `-e` should be green
+
+# Java
+TODO `package` should be green
+TODO `L2Char` should be normal
+TODO `.gameserver.model` should be normal
+
